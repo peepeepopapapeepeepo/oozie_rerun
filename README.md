@@ -35,5 +35,5 @@ script to rerun Oozie workflow submitted by Hue for Cloudera system
    ```
 
    **Note**
-   - `list` = list all unsuccessful workflow for a certain coordinator
-   - `rerun` = rerun all unsuccessful workflow for a certain coordinator
+   - `list` = list all unsuccessful workflowis for a certain coordinator
+   - `rerun` = rerun all unsuccessful workflows for a certain coordinator
