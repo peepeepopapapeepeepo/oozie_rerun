@@ -11,7 +11,7 @@
 #   v1.0    2019/11/19 Sawit M. - First draft
 #
 # Usage
-#   ./oozie_rerun "<Coordinator Name>" "<since datetime in format yyyy-MM-dd'T'HH:mm'Z' e.g. 2019-01-01T00:00Z>"
+#   ./oozie_rerun <list|rerun> "<Coordinator Name>" "<since datetime in format yyyy-MM-dd'T'HH:mm'Z' e.g. 2019-01-01T00:00Z>"
 
 SCRIPTNAME=${0##*/}
 
